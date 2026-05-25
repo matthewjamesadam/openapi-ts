@@ -1,5 +1,13 @@
 # @hey-api/shared
 
+## 0.4.6
+
+### Patch Changes
+
+- **plugin**: export `coerce`, `defineNormalizers`, `Coercer`, `NormalizerTable`, and `PluginTag` ([#3927](https://github.com/hey-api/openapi-ts/pull/3927)) ([`d93e1ef`](https://github.com/hey-api/openapi-ts/commit/d93e1efe58ae14ce8e224e8d7c3c0bd716fef181)) by [@mrlubos](https://github.com/mrlubos)
+
+- **config**: `valueToObject` is recursive ([#3927](https://github.com/hey-api/openapi-ts/pull/3927)) ([`d93e1ef`](https://github.com/hey-api/openapi-ts/commit/d93e1efe58ae14ce8e224e8d7c3c0bd716fef181)) by [@mrlubos](https://github.com/mrlubos)
+
 ## 0.4.5
 
 ### Patch Changes
